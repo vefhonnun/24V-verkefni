@@ -7,7 +7,6 @@
 5. [Verkefni](Verkefni-5/)
 6. [Verkefni](Verkefni-6/)
 7. [Verkefni](Verkefni-7/)
-8. [Verkefni](Verkefni-8/)
 
 
 ## Námsáætlun
