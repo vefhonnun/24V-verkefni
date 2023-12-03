@@ -21,8 +21,8 @@
 | 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 6 | 8 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
 | 6  | CSS kvikun (_Transform, transition & animation_) | 5 | 6 | 8 |
-| 7  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 8  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 7  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 8  | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 9 | _Síðasti  kennsludagur 29. febrúar_. | | 30 | 40 / 30  |
 | 10 | _Námsmat_ |   |   | 100  |
 
