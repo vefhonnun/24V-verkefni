@@ -15,14 +15,14 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 1  | HTML & CSS vinnurammi (_framework_)   | 1  | x |  |
-| 2  | HTML & CSS vinnurammi (_framework_)  | 1  | 8 | 12 |
+| 1  | HTML & CSS vinnurammi (_framework_)   | 1  | x | x |
+| 2  | HTML & CSS vinnurammi (_framework_)  | 1  | 8 | 14 |
 | 3  | Töflur, form  | 2 | 8  | 12 |
-| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3  | 6 | 12 |
-| 5  | SVG vigurteikningar (_Vector graphics_) | 4  | 8  | 20 |
-| 6  | CSS kvikun (Animation) | 5  | 8 | 12 |
-| 7  | Vefur fyrir viðburð, undirbúningur | 6  | 8 | 12  |
-| 8  | Vefur fyrir viðburð <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
+| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3  | 8 | 14 |
+| 5  | SVG vigurteikningar (_Vector graphics_) | 4  | 8  | 14 |
+| 6  | CSS kvikun (Animation) | 5  | 8 | 14 |
+| 7  | Vefur fyrir viðburð, undirbúningur. <sub> **_Lykilmatsþáttur_** </sub> | 6  | 8 | 15  |
+| 8  | Vefur fyrir viðburð, framleiðsla. <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 25 |
 | 9  | <sub>**Síðasti  kennsludagur 29. febrúar**.  |  |  | 100%  |
 | 10  | <sub>Námsmat</sub> |  |  |  |
 
