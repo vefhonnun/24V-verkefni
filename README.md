@@ -37,11 +37,11 @@
 | 3 | Töflur | Form | Form | **Tímaverkefni** |
 | 4 | Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni** |
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
-| 6 | Kvikun, transform - transition | @keyframe | Slideshow | **Tímaverkefni** |   
-| 7 | Lokaverkefni | undirbúningur | Skipulagning | Sitemap - Style tyle  |   
-| 8 | Lokaverkefni | framleiðsla | myndvinnsla | kóðun | 
-| 9 | Framleiðsla | kóðun | Frágangur |  vefur ok |
-| 10 | námsmat | námsmat |
+| 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
+| 7 | Slideshow | Sprettigluggi (_Pop up_) | Harmonikulisti ofl.| **Tímaverkefni** |
+| 8 | Lokaverkefni | undirbúningur | efnisyfirlit (_Site-map_)| Wire-frame - Style tyle |   
+| 9 | Lokaverkefni | framleiðsla | Frágangur |  Vefur ok |
+| 10 | _Námsmat_ | _Námsmat_ | _Námsmat_ | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi
 1. verkefni. Form, töflur og fleiri íhlutir settir í vefinn
@@ -50,10 +50,13 @@
 1. verkefni er kvikun (_Animation_) 
 1. verkefni. Vefur fyrir viðburð. 
    * Efni vefs er valsfrjálst
-   * Nemendur búa til efnisyfirlit (_Site-map_) og Leiðakerfi (Wire-frame)
-   * Nemendur safna saman efni og myndum sem hægt er að nota í vefhönnunina.
+   * Nemendur 
+      * safna saman texta og myndum sem hægt er að nota
+      * ákveða litaþema og leturval vefs (_Style-tyle_)
+      * búa til efnisyfirlit (_Site-map_) og Leiðakerfi (Wire-frame)
 1. verkefni. Vefur fyrir viðburð. 
-   * framleiðsla og frágangur. Vefur er birtur á https://(user).github.io/(subdomain) 
- Engin á að nota nákvæmlega sömu lausnir. 
+   * framleiðsla og frágangur
+   * Vefur er birtur á https://(user).github.io/(subdomain) 
+
    
-   * Nemendur ákveða litaþema og leturval vefs (_Style-tyle_)
+   
