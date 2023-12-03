@@ -7,6 +7,7 @@
 5. [Verkefni](Verkefni-5/)
 6. [Verkefni](Verkefni-6/)
 7. [Verkefni](Verkefni-7/)
+8. [Verkefni](Verkefni-8/)
 
 
 ## Námsáætlun
@@ -20,8 +21,8 @@
 | 3  | Töflur og form  | 2 | 6 | 8 |
 | 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 6 | 8 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
-| 6  | CSS kvikun (Animation) | 5 | 6 | 8 |
-| 7  | CSS kvikun (Animation) | 6 | 6 | 8 |
+| 6  | CSS kvikun (_Transform/transition_) | 5 | 6 | 8 |
+| 7  | CSS kvikun (Animation _@keyframes_) | 6 | 6 | 8 |
 | 8  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
 | 9  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 10 | _Síðasti  kennsludagur 29. febrúar_. | _Námsmat_  | _Námsmat_ | 100%  |
