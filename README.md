@@ -40,7 +40,7 @@
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
 | 7 | Lokaverkefni | Efnisöflun | Skipulag | Letur- og litaval | Útlitshönnun |  
 | 8 | Lokaverkefni | Framleiðsla | --- | --- |
-| 9 | Frágangur |  Vefur ok | --- | _Námsmat_ |
+| 9 | --- | Frágangur |  Vefur ok | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
 1. verkefni. Sveigjanleg tafla og form sett í veframmann
