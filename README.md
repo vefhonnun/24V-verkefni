@@ -22,9 +22,9 @@
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 8 | 6 | 8 |
 | 6  | CSS kvikun (Animation) | 5 | 8 | 6 | 8 |
 | 7  | CSS kvikun (Animation) | 6 | 8 | 6 | 8 |
-| 8  | Vefur fyrir viðburð, undirbúningur. <sub> **_Lykilmatsþáttur_** </sub> | 7  | x | x | 15  |
-| 9  | Vefur fyrir viðburð, framleiðsla. <sub> **_Lykilmatsþáttur_** </sub> | 8 | | x | x | 15  |
-| 10 | <small>**Síðasti  kennsludagur 29. febrúar**. </small> | <small>Námsmat</small>  | <small>Námsmat</small>| x  | 100%  |
+| 8  | Vefur fyrir viðburð, undirbúningur. <sub> **_Lykilmatsþáttur_** </sub> | 7 | x | x | 15  |
+| 9  | Vefur fyrir viðburð, framleiðsla. <sub>   **_Lykilmatsþáttur_** </sub> | 8 | x | x | 15  |
+| 10 | _Síðasti  kennsludagur 29. febrúar_. | Námsmat  | Námsmat | x  | 100%  |
 
 ---
 
