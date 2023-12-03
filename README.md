@@ -21,11 +21,11 @@
 | 3  | Töflur og form  | 2 | 6 | 8 |
 | 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 6 | 8 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
-| 6  | CSS kvikun (_Transform/transition_) | 5 | 6 | 8 |
-| 7  | CSS kvikun (Animation _@keyframes_) | 6 | 6 | 8 |
-| 8  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 9  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 10 | _Síðasti  kennsludagur 29. febrúar_. | _Námsmat_  | _Námsmat_ | 100%  |
+| 6  | CSS kvikun (_Transform, transition & animation_) | 5 | 6 | 8 |
+| 7  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 8  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 9 | _Síðasti  kennsludagur 29. febrúar_. |   | 36% | 44%  |
+| 10 | _Námsmat_ |   |   |   |
 
 ---
 
@@ -38,10 +38,9 @@
 | 4 | Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni** |
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
-| 7 | Slideshow | Sprettigluggi (_Pop up_) | Harmonikulisti ofl.| **Tímaverkefni** |
-| 8 | Lokaverkefni | Efnisöflun | Skipulag | Letur- og litaval | Framleiðsla |  
-| 9 | Lokaverkefni | Framleiðsla | Frágangur |  Vefur ok |
-| 10 | _Námsmat_ | _Námsmat_ | _Námsmat_ | _Námsmat_ |
+| 7 | Lokaverkefni | Efnisöflun | Skipulag | Letur- og litaval | Útlitshönnun |  
+| 8 | Lokaverkefni | Framleiðsla | --- | --- |
+| 9 | Frágangur |  Vefur ok | _Námsmat_ | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
 1. verkefni. Sveigjanleg tafla og form sett í veframmann
