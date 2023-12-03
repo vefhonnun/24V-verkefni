@@ -15,7 +15,7 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 1  | HTML & CSS vinnurammi (_framework_)   | 1  | 2 |  |
+| 1  | HTML & CSS vinnurammi (_framework_)   | 1  | x |  |
 | 2  | HTML & CSS vinnurammi (_framework_)  | 1  | 8 | 12 |
 | 3  | Töflur, form  | 2 | 8  | 12 |
 | 4  | Fellilisti, harmonikulisti og sprettigluggi | 3  | 6 | 12 |
@@ -29,9 +29,21 @@
 
 ---
 
+### Vikuáætlun 
 
+| Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
+| --- | --- | --- | --- | --- | 
+| 2 | Vinnurammi - framework | Grid | CSS variables, Litaþema | **Tímaverkefni** |
+| 3 | Sveigjanlegt skipulag (RWD) | Töflur | Form | **Tímaverkefni** |
+| 4 | Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni** |
+| 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
+| 6 | Kvikun, transform - transition | @keyframe | Slideshow | **Tímaverkefni** |   
+| 7 | Lokaverkefni | undirbúningur | Skipulagning | Sitemap - Style tyle  |   
+| 8 | Lokaverkefni | framleiðsla | myndvinnsla | kóðun | 
+| 9 | Framleiðsla | kóðun | Frágangur |  vefur ok |
+| 10 | námsmat | námsmat |
  
-1. verkefni.  Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi
+1. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi
 1. verkefni. Form, töflur og fleiri íhlutir settir í vefinn
 1. verkefni. Efnisyfirlit er sett í fellilista, spretti gluggi og harmonikulisti búinn til 
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
