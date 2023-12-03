@@ -24,7 +24,7 @@
 | 7  | CSS kvikun (Animation) | 6 | 6 | 8 |
 | 8  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
 | 9  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 10 | _Síðasti  kennsludagur 29. febrúar_. | Námsmat  | Námsmat | 100%  |
+| 10 | _Síðasti  kennsludagur 29. febrúar_. | _Námsmat_  | _Námsmat_ | 100%  |
 
 ---
 
