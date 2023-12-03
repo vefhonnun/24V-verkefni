@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 1  | HTML & CSS vinnurammi (_framework_)   | 1  | x | x |
 | 2  | HTML & CSS vinnurammi (_framework_)  | 1  | 8 | 14 |
-| 3  | Töflur, form  | 2 | 8  | 12 |
+| 3  | Töflur og form  | 2 | 8  | 14 |
 | 4  | Fellilisti, harmonikulisti og sprettigluggi | 3  | 8 | 14 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4  | 8  | 14 |
 | 6  | CSS kvikun (Animation) | 5  | 8 | 14 |
