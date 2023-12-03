@@ -13,18 +13,18 @@
 
 #### 2024 vor, spönn 1. 
 
-| Vika  | Verkefni  | Nr. | Tímar | Æfingar % | Tímaverkefni % |
-|---|---|---|---|---|---|
-| 1  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x | x |
-| 2  | HTML & CSS vinnurammi (_framework_)  | 1 | 8 | 6 | 8 |
-| 3  | Töflur og form  | 2 | 8 | 6 | 8 |
-| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 8 | 6 | 8 |
-| 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 8 | 6 | 8 |
-| 6  | CSS kvikun (Animation) | 5 | 8 | 6 | 8 |
-| 7  | CSS kvikun (Animation) | 6 | 8 | 6 | 8 |
-| 8  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | x | 15  |
-| 9  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub> | x | 15  |
-| 10 | _Síðasti  kennsludagur 29. febrúar_. | Námsmat  | Námsmat | Námsmat  | 100%  |
+| Vika  | Verkefni  | Nr. | Æfingar % | Próf % |
+|---|---|---|---|---|
+| 1  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x 
+| 2  | HTML & CSS vinnurammi (_framework_)  | 1 | 6 | 8 |
+| 3  | Töflur og form  | 2 | 6 | 8 |
+| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 6 | 8 |
+| 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
+| 6  | CSS kvikun (Animation) | 5 | 6 | 8 |
+| 7  | CSS kvikun (Animation) | 6 | 6 | 8 |
+| 8  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 9  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 10 | _Síðasti  kennsludagur 29. febrúar_. | Námsmat  | Námsmat | 100%  |
 
 ---
 
