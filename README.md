@@ -43,10 +43,11 @@
 | 10 | _Námsmat_ | _Námsmat_ | _Námsmat_ | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
-1. verkefni. Form, töflur og fleiri íhlutir settir í veframmann
+1. verkefni. Sveigjanleg tafla og form sett í veframmann
 1. verkefni. Efnisyfirlit er sett í fellilista, spretti gluggi og harmonikulisti búinn til 
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
-1. verkefni er kvikun (_Animation_) 
+1. verkefni. Kvikun, transition og transform 
+1. verkefni. Kvikun (_Animation_) Myndasýning búin til með CSS 
 1. verkefni. Vefur fyrir viðburð. 
    * Efni vefs er valsfrjálst
    * Nemendur 
