@@ -43,8 +43,8 @@
 | 9 | Lokaverkefni | framleiðsla | Frágangur |  Vefur ok |
 | 10 | _Námsmat_ | _Námsmat_ | _Námsmat_ | _Námsmat_ |
  
-1. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi
-1. verkefni. Form, töflur og fleiri íhlutir settir í vefinn
+1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
+1. verkefni. Form, töflur og fleiri íhlutir settir í veframmann
 1. verkefni. Efnisyfirlit er sett í fellilista, spretti gluggi og harmonikulisti búinn til 
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
 1. verkefni er kvikun (_Animation_) 
