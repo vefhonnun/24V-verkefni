@@ -45,17 +45,14 @@
 1. verkefni. Sveigjanleg tafla og form sett í veframmann
 1. verkefni. Efnisyfirlit er sett í fellilista, spretti gluggi og harmonikulisti búinn til 
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
-1. verkefni. Kvikun, transition og transform 
-1. verkefni. Kvikun (_Animation_) Myndasýning búin til með CSS 
+1. verkefni. Kvikun, CSS _transition, transform & @keyframe_ 
 1. verkefni. Vefur fyrir viðburð. 
-   * Efni vefs er valsfrjálst
-   * Nemendur 
+   * Efni vefs er valsfrjálst, nemendur:
       * safna saman texta og myndum sem hægt er að nota
       * ákveða litaþema og leturval vefs (_Style-tyle_)
       * búa til efnisyfirlit (_Site-map_) og Leiðakerfi (Wire-frame)
-1. verkefni. Vefur fyrir viðburð. 
-   * framleiðsla og frágangur
-   * Vefur er birtur á https://(user).github.io/(subdomain) 
+      * framleiðsla og frágangur
+      * Vefur er birtur á https://(user).github.io/(subdomain) 
 
    
    
