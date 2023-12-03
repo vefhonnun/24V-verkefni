@@ -33,8 +33,8 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 2 | Vinnurammi - framework | Grid | CSS variables, Litaþema | **Tímaverkefni** |
-| 3 | Sveigjanlegt skipulag (RWD) | Töflur | Form | **Tímaverkefni** |
+| 2 | Vinnurammi - framework | Grid skipulag (RWD) | CSS variables, Litaþema | **Tímaverkefni** |
+| 3 | Töflur | Form | Form | **Tímaverkefni** |
 | 4 | Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni** |
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform - transition | @keyframe | Slideshow | **Tímaverkefni** |   
