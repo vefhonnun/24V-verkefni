@@ -38,8 +38,8 @@
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
 | 7 | Slideshow | Sprettigluggi (_Pop up_) | Harmonikulisti ofl.| **Tímaverkefni** |
-| 8 | Lokaverkefni | undirbúningur | efnisyfirlit (_Site-map_)| Wire-frame - Style tyle |   
-| 9 | Lokaverkefni | framleiðsla | Frágangur |  Vefur ok |
+| 8 | Lokaverkefni | Efnisöflun | Skipulag | Letur- og litaval | Framleiðsla |  
+| 9 | Lokaverkefni | Framleiðsla | Frágangur |  Vefur ok |
 | 10 | _Námsmat_ | _Námsmat_ | _Námsmat_ | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
