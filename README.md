@@ -24,7 +24,7 @@
 | 7  | Vefur fyrir viðburð, undirbúningur. | 7 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
 | 8  | Vefur fyrir viðburð, framleiðsla. | 8 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 9 | _Síðasti  kennsludagur 29. febrúar_. | | 30 | 40 / 30  |
-| 10 | _Námsmat_ |   |   | 100%  |
+| 10 | _Námsmat_ |   |   | 100  |
 
 ---
 
