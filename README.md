@@ -13,18 +13,18 @@
 
 #### 2024 vor, spönn 1. 
 
-| Vika  | Verkefni  | Nr. | Tímar | Æfingaverkefni % | Tímaverkefni % |
+| Vika  | Verkefni  | Nr. | Tímar | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|---|
 | 1  | HTML & CSS vinnurammi (_framework_)  | 1  | x | x | x |
 | 2  | HTML & CSS vinnurammi (_framework_)  | 1  | 8 | 6 | 8 |
 | 3  | Töflur og form  | 2 | 8 | 6 | 8 |
-| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3  8 | 6 | 8 |
+| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 8 | 6 | 8 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 8 | 6 | 8 |
 | 6  | CSS kvikun (Animation) | 5 | 8 | 6 | 8 |
 | 7  | CSS kvikun (Animation) | 6 | 8 | 6 | 8 |
 | 8  | Vefur fyrir viðburð, undirbúningur. <sub> **_Lykilmatsþáttur_** </sub> | 7  | x | x | 15  |
 | 9  | Vefur fyrir viðburð, framleiðsla. <sub> **_Lykilmatsþáttur_** </sub> | 8 | | x | x | 15  |
-| 10 | <small>**Síðasti  kennsludagur 29. febrúar**. </small> | <small>Námsmat</small>  | <small>Námsmat</small>| x | x | 100%  |
+| 10 | <small>**Síðasti  kennsludagur 29. febrúar**. </small> | <small>Námsmat</small>  | <small>Námsmat</small>| x  | 100%  |
 
 ---
 
