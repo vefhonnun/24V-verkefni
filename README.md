@@ -38,7 +38,7 @@
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
 | 7 | Lokaverkefni | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
-| 8 | Lokaverkefni | Framleiðsla | --- | --- |
+| 8 | _Vetrarfrí_ |Lokaverkefni | Framleiðsla | --- |
 | 9 | --- | Frágangur |  Vefur ok | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
