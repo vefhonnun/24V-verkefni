@@ -1,12 +1,12 @@
 # Vefhönnun
 
-1. [Verkefni](Verkefni-1/)
-2. [Verkefni](Verkefni-2/)
-3. [Verkefni](Verkefni-3/)
-4. [Verkefni](Verkefni-4/)
-5. [Verkefni](Verkefni-5/)
-6. [Verkefni](Verkefni-6/)
-7. [Verkefni](Verkefni-7/)
+1. [Verkefni](Verkefni-1/) Vinnurammi 
+2. [Verkefni](Verkefni-2/) Töflur og form
+3. [Verkefni](Verkefni-3/) Flókin stílbrögð
+4. [Verkefni](Verkefni-4/) SVG vigurteikningar
+5. [Verkefni](Verkefni-5/) CSS kvikun
+6. [Verkefni](Verkefni-6/) Undirbúningur vefs
+7. [Verkefni](Verkefni-7/) Framleiðsla vefs
 
 
 ## Námsáætlun
@@ -18,7 +18,7 @@
 | 1  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x 
 | 2  | HTML & CSS vinnurammi (_framework_)  | 1 | 6 | 8 |
 | 3  | Töflur og form  | 2 | 6 | 8 |
-| 4  | Fellilisti, harmonikulisti og sprettigluggi | 3 | 6 | 8 |
+| 4  | Flókin stílbrögð (_Complex selectors_) | 3 | 6 | 8 |
 | 5  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
 | 6  | CSS kvikun (_Transform, transition & animation_) | 5 | 6 | 8 |
 | 7  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
