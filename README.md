@@ -33,11 +33,11 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 2 | Vinnurammi - framework | Grid skipulag (RWD) | CSS variables, Litaþema | **Tímaverkefni** |
-| 3 | Töflur | Form | Form | **Tímaverkefni** |
-| 4 | Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni** |
+| 3 | Töflur | Form | Form validation | **Tímaverkefni** |
+| 4 | Complex selectors | Drop down menu | Pop up menu | **Tímaverkefni** |
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
-| 7 | Lokaverkefni | Efnisöflun | Skipulag | Letur- og litaval | Útlitshönnun |  
+| 7 | Lokaverkefni | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
 | 8 | Lokaverkefni | Framleiðsla | --- | --- |
 | 9 | --- | Frágangur |  Vefur ok | _Námsmat_ |
  
