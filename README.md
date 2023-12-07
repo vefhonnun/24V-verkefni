@@ -37,9 +37,9 @@
 | 4 | Complex selectors | Drop down menu | Pop up menu | **Tímaverkefni** |
 | 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
-| 7 | Lokaverkefni | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
-| 8 | _Vetrarfrí_ |Lokaverkefni | Framleiðsla | --- |
-| 9 | --- | Frágangur |  Vefur ok | _Námsmat_ |
+| 7 | Hönnun vefs, undirbúningur | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
+| 8 | _Vetrarfrí_ |Framleiðsla | Framleiðsla | Framleiðsla |
+| 9 | CSS þjöppun | Frágangur |  Vefur á Github.io | _Námsmat_ |
  
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
 1. verkefni. Sveigjanleg tafla og form sett í veframmann
