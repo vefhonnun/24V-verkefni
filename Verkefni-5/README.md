@@ -4,8 +4,6 @@
 
 ### Undirbúningur 
 
-* Skjásvetta = _Splash screen_
-* Efnisinnihald getur verið tilkynning, tilboð eða auglýsing
 * gott er að skissa og/eða skrifa lýsingu á því hvað þú ætlar að framkvæma áður en þú byrjar á að kóða
 
 ### Kóðun
@@ -34,7 +32,8 @@
 1.  [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
 1.  [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav)
 
-### Námsmat 12%
+### Námsmat 14%
 
-* Á vefnum er myndasýning (_slideshow_) með amk 4 myndum.
-* Ef myndasýning er ekki á forsíðu (index.html) þá tilgreinið staðsetningu hennar í Innu/verkefnaskil 6.
+- 6% æfingar
+- 8% próf
+

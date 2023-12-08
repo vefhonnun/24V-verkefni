@@ -25,10 +25,8 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 * https://svgporn.com/ 
 
-### Námsmat 12% ath!
+### Námsmat 14%
 
-* 6% SVG logo
-  *  Eigið SVG merki (logo) sett í Header og eða Footer
-* 6% Táknletur
-  *  SVG leturtákn í efnisyfirliti 
-  *  SVG leturtákn í Footer, félagsmiðlatenglum 
+- 6% æfingar
+- 8% próf
+

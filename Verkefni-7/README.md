@@ -53,22 +53,19 @@ _Gangi ykkur vel_
 
 Skilaðu vefnum og öllum vinnugögnum sem tilheyra verkefninu í Github verkefnageymsluna.
 
-### Námsmat ath!%
+### Námsmat 15%
 
-* 4%  Vefsíða birtist með tilþrifum á skjáinn
-* 6%  Skjásvettan er í lagi í:
-    * farsíma 320px +
-    * spjaldtölvu 760px +
-    * fartölvu 1024px +
-* 4%  Birting vefs á internetinu (username.github.io/)
-* 3%  Útlitshönnun
+
+* 10%  Útlitshönnun
     * Letur og litaval
     * Efnisyfirlit
     * Töflur og form
+    * Kvikun (_animation_)
 * 3%  Frágangur
     * Ein þjöppuð stílsíða tengd við allar html síðurnar
     * Allar myndir í sérmöppu 
     * HTML5 og CSS ritháttur í lagi
+* 2%  Birting vefs á internetinu (username.github.io/)
 
 Einkunn er birt í Innu.
 

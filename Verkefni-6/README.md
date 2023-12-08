@@ -40,19 +40,19 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 ### Undirbúningsvinna
 
 1. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-6/)
+   * [Búið til skipurit](Námsefni-6/Sitemap.md)
 1. Tengirit - _"WireFrame"_
    * [Búið til leiðakerfi](Námsefni-6/wireframe/README.md)
 1. Stílbragð - _Style tyle_
    * [Ákveðið letur- og litasamsetningu](Námsefni-6/style-tyle/README.md)
 
-### Námsmat 12% ath!
+### Námsmat 15% 
 
 * Hugmyndavinna 3%
 * Efnisöflun og Textavinna 3%
-* Efnisyfirlit - _Site Map_ 2%
-* Tengirit - _Wireframe_     2%
-* Stílbragð - _Style tyle_  2%
+* Efnisyfirlit - _Site Map_ 3%
+* Tengirit - _Wireframe_     3%
+* Stílbragð - _Style tyle_  3%
 
 ### Verkefnaskil
 
