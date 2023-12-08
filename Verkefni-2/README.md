@@ -6,11 +6,11 @@ Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skj�
 
 #### Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
 
-![Mynd 1.](Námsefni-3/mynd-1.jpg)
+![Mynd 1.](Námsefni-2/mynd-1.jpg)
 
 #### Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
 
-![Mynd 2.](Námsefni-3/mynd-2.jpg)
+![Mynd 2.](Námsefni-2/mynd-2.jpg)
 
 Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
@@ -22,7 +22,7 @@ Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytas
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
   
-![Mynd 3.](Námsefni-3/mynd-3.jpg)
+![Mynd 3.](Námsefni-2/mynd-3.jpg)
 
 #### Form 
 

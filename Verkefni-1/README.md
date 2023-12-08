@@ -7,8 +7,8 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS 
 
 Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
 
-* [Grunnsíður - Boilerplate](Námsefni-2/)
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/boilerplate/index.html)
+* [Grunnsíður - Boilerplate](Námsefni-1/)
+* [Sýnidæmi ath! breyta dæmi!](https://vefhonnun.github.io/synidaemi/verkefni-3/boilerplate/index.html)
 
 ### Námsmat:  12% af heildareinkunn
 
