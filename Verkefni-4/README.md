@@ -13,7 +13,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
-* [Sýnidæmi]().  
+<!--* [Sýnidæmi](). ath --> 
 
 ### SVG Bjargir
 
@@ -23,12 +23,12 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 ### SVG firmamerki
 
-* https://svgporn.com/
+* https://svgporn.com/ 
 
-### Námsmat 12%
+### Námsmat 12% ath!
 
 * 6% SVG logo
-  *  Eigið SVG merki (logo) sett í Header/Footer
+  *  Eigið SVG merki (logo) sett í Header og eða Footer
 * 6% Táknletur
   *  SVG leturtákn í efnisyfirliti 
   *  SVG leturtákn í Footer, félagsmiðlatenglum 

@@ -34,15 +34,15 @@
 * Til að þjappa (_Compact_) kóðann saman, notið skipunina: `[shift]+[alt]+[f]`
 
 #### Vefur á Github.io
-* [Uppsetning vefs á github.io](uppsetning-vefs/README.md)
+* [Uppsetning vefs á github.io](uppsetning-github.io/README.md)
 
 ### Verkefnaskil
 
 Skilaðu vefnum og öllum vinnugögnum sem tilheyra verkefninu í Github verkefnageymsluna.
 
-### Námsmat 20%
+### Námsmat ath!%
 
-* 4% 	Vefsíða birtist með tilþrifum á skjáinn
+* 4%  Vefsíða birtist með tilþrifum á skjáinn
 * 6%  Skjásvettan er í lagi í:
     * farsíma 320px +
     * spjaldtölvu 760px +

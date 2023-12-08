@@ -37,11 +37,11 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 ### Tæknileg útfærlsa
 
 1. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-1/)
+   * [Búið til skipurit](Námsefni-6/)
 1. Tengirit - _"WireFrame"_
-   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
+   * [Búið til leiðakerfi](Námsefni-6/wireframe/README.md)
 1. Stílbragð - _Style tyle_
-   * [Ákveðið letur- og litasamsetningu](Námsefni-1/style-tyle/README.md)
+   * [Ákveðið letur- og litasamsetningu](Námsefni-6/style-tyle/README.md)
 
 ### Námsmat 12% af heildareinkunn
 
