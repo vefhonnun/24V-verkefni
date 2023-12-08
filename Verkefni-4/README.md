@@ -1,43 +1,34 @@
-# Fellilistar og sprettigluggi
+# SVG vigurteikning - _Vector graphics_
 
-### Markmið:
-Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
+Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Það er hægt að teikna það í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
 
-### Fellilisti í efnisyfirliti (_Drop down menu_)
+## Icomoon táknletur
 
-Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
- 
-Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
+Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og &lt;footer> félagsmiðlatengla (_Social Media_).  
 
-Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og ≡ hnappur er efst á síðunni
- 
-Þegar smellt er á ≡ hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
+* Sækið táknletrið með því að smella á „Generate Font“
+* Mappan sem Icomoon hleður inn á tölvuna þína inniheldur „style.css“ og „font“ möppu með leturtáknunum sem þú valdir. Afritaðu „style.css“ og „font“ möppuna
+* Demo.html síðan sýnir þér hvernig hægt er að setja táknin á vefsíðu.
+* Það er hægt að meðhöndla táknin eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. 
 
-Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
+_Veljið tákn sem passa við ykkar efnisyfirlit_
 
-Nú er vinsælt að hafa spjallborð í vefsíðum og yfirleitt er það falið en hnappur er staðsettur neðst í hægra horni. Þegar ýtt er á hnappinn þá birtist spjallborðið.
+* [Sýnidæmi]().  
 
-### Fellilisti í málsgreinum (_Accordion menu_)
+### SVG Bjargir
 
-Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur og saman eins og harmonika. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) og hér er [annað dæmi](https://codepen.io/alvarotrigo/pen/dyJyxQm)
+* [Using SVG](https://css-tricks.com/using-svg/)
+* [Icomoon leturtákn ](https://icomoon.io/)
+* [How to use Icomoon font](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
 
-### Sprettigluggi (_Pop up menu_)
+### SVG firmamerki
 
-Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
+* https://svgporn.com/
 
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-4/)
+### Námsmat 12%
 
-#### Námsefni
-
-* [Complex Selectors](Námsefni-4/README.md)
-* [Transition og transform](Námsefni-4/Transition-Transform.md)
-
-### Námsmat 20%
-* 2% 	Undirbúningsgögn og skipulag
-* 2%  Leiðakerfi og svegjanleg virkni (RWD)
-* 2%  Útlitshönnun
-* 6% Fellilisti í efnisyfirliti (_Drop down menu_) 
-* 4% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
-* 4% Sprettigluggi (_Pop up menu_)
-
-#### Einkunn verður birt í Innu
+* 6% SVG logo
+  *  Eigið SVG merki (logo) sett í Header/Footer
+* 6% Táknletur
+  *  SVG leturtákn í efnisyfirliti 
+  *  SVG leturtákn í Footer, félagsmiðlatenglum 

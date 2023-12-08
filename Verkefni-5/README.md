@@ -1,34 +1,25 @@
-# SVG vigurteikning - _Vector graphics_
+# Kvikun 
 
-Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Það er hægt að teikna það í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
+Búðu til myndasýningu (_slideshow_) sem **hægt er að nota í vefnum þínum**.
+Sýningin getur innihaldið texta og myndir eða bara annaðhvort, allt eftir því sem þú villt gera.
 
-## Icomoon táknletur
+#### Lausnin á að vera í HTML og CSS 
 
-Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og &lt;footer> félagsmiðlatengla (_Social Media_).  
+### Bjargir
 
-* Sækið táknletrið með því að smella á „Generate Font“
-* Mappan sem Icomoon hleður inn á tölvuna þína inniheldur „style.css“ og „font“ möppu með leturtáknunum sem þú valdir. Afritaðu „style.css“ og „font“ möppuna
-* Demo.html síðan sýnir þér hvernig hægt er að setja táknin á vefsíðu.
-* Það er hægt að meðhöndla táknin eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. 
+* [W3schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+* [Slideshow w3.org](https://www.w3.org/Style/Examples/007/slideshow.en.html#top)
+* [CSS3 slideshow dæmi](https://codeshack.io/pure-css3-image-slideshow-example/)
+* [Animation timing funtion](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+* [Using Cubic Besier](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
+* [vefhönnun/Wiki](https://github.com/vefhonnun/23H-verkefni-s2/wiki#kvikun---animation)
 
-_Veljið tákn sem passa við ykkar efnisyfirlit_
-
-* [Sýnidæmi]().  
-
-### SVG Bjargir
-
-* [Using SVG](https://css-tricks.com/using-svg/)
-* [Icomoon leturtákn ](https://icomoon.io/)
-* [How to use Icomoon font](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
-
-### SVG firmamerki
-
-* https://svgporn.com/
+1. [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
+1.  [Code pen](https://codepen.io/maheshambure21/pen/qZZrxy)
+1.  [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
+1.  [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav)
 
 ### Námsmat 12%
 
-* 6% SVG logo
-  *  Eigið SVG merki (logo) sett í Header/Footer
-* 6% Táknletur
-  *  SVG leturtákn í efnisyfirliti 
-  *  SVG leturtákn í Footer, félagsmiðlatenglum 
+* Á vefnum er myndasýning (_slideshow_) með amk 4 myndum.
+* Ef myndasýning er ekki á forsíðu (index.html) þá tilgreinið staðsetningu hennar í Innu/verkefnaskil 6.

@@ -1,66 +1,43 @@
-# Tafla  &lt;Table> 
+# Fellilistar og sprettigluggi
 
-Bættu töflu inn í vefsíðuna, innhald töflunar á að vera dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta en innihald töflunnar á að vera klárt þegar farið er yfir verkefnið í yfirferð verkefna (_Lykilmatsþáttur - 4. verkefni_). 
+### Markmið:
+Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður. 
 
-Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
+### Fellilisti í efnisyfirliti (_Drop down menu_)
 
-#### Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
+Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það séu nokkrir tenglar (links) séu í efnisyfirlitinu.  
+ 
+Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
 
-![Mynd 1.](Námsefni-3/mynd-1.jpg)
+Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og ≡ hnappur er efst á síðunni
+ 
+Þegar smellt er á ≡ hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
-#### Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
-![Mynd 2.](Námsefni-3/mynd-2.jpg)
+Nú er vinsælt að hafa spjallborð í vefsíðum og yfirleitt er það falið en hnappur er staðsettur neðst í hægra horni. Þegar ýtt er á hnappinn þá birtist spjallborðið.
 
-Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
+### Fellilisti í málsgreinum (_Accordion menu_)
 
-Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
+Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur og saman eins og harmonika. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) og hér er [annað dæmi](https://codepen.io/alvarotrigo/pen/dyJyxQm)
 
----
+### Sprettigluggi (_Pop up menu_)
 
-## Skráningarform 
+Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
-  
-![Mynd 3.](Námsefni-3/mynd-3.jpg)
+* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-4/)
 
-#### Form 
+#### Námsefni
 
-Í base.css er búið að tilgreina alla helstu þætti sem hægt er að stíla í formtögunum, aðlagið formið að ykkar útlitshönnun og skipulagi.
+* [Complex Selectors](Námsefni-4/README.md)
+* [Transition og transform](Námsefni-4/Transition-Transform.md)
 
-#### Réttritun (_validation_)
-Þegar smellt er á hnappinn (input submit) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
+### Námsmat 20%
+* 2% 	Undirbúningsgögn og skipulag
+* 2%  Leiðakerfi og svegjanleg virkni (RWD)
+* 2%  Útlitshönnun
+* 6% Fellilisti í efnisyfirliti (_Drop down menu_) 
+* 4% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
+* 4% Sprettigluggi (_Pop up menu_)
 
-` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
-
-* Ekki er hægt að skilja nafnareit auðan 		
-* Símanúmer verður að vera tölur (numbers)
-* Tölvupóstfang verður að vera með @	      	
-* Notið „input date“
-* Notið „select option, checkbox og radio“. 	
-* Notið aðra leturgerð og stærð í „textarea“
-
-### Námsmat 12%
-
-#### Tafla 
-
-* 2% Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* 2% Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* 2% Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
-á litlum skjáum.
-
-#### Form 
-* 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
-* 3%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
-
-- **[Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)**
-- **[Bjargir](https://github.com/vefhonnun/23-Verkefni-s1/wiki#t%C3%B6flur)**
-
-### Verkefnaskil
-
-Öllum vinnugögnum á að skila í verkefnageymsluna þína og tengil á verkefnið í Innu.
-
-#### Einkunn verður birt í Innu.
-
-_Gangi þér vel_
-
+#### Einkunn verður birt í Innu
