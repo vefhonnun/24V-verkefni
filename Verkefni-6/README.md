@@ -1,22 +1,25 @@
 # Vefur fyrir viðburð
 
+### Undirbúningur og skipulagning
+
 ### Markmið:
 
 Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
 
 ---
 
-Í 1. verkefni er ákveðið hvaða efni á að nota sem undirstaða undir verkefnin sem unnin eru í áfanganum. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. Verkefni áfangans tengjast saman og afrakstur þeirra á að vera frambærilegur vefur sem hægt er að birta á internetinu. 
-
 ### Þema, _vörukynning_ 
+
+Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
 
 * Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
   * Það á að vera möguleiki á að panta vöru eða þjónustu
-  * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
-  * Það þarf að skrá sig til að taka þátt í leik
-* Annað val _Þarf samþykki kennara_<sup>*</sup> 
+  * Á vefnum er spurningaleikur eða einhver söluhvati sem viðskiptavinir geta tekið þátt í
+  * Það þarf að form til að skrá sig til þáttöku í leik
 
-Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
+Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu strax í fyrsta tíma verkefnisins. <!-- ? Ef ekkert hefur verið ákveðið er hægt að nota ... ?-->
+
+> Engin á að fjalla um sama efni og nota nákvæmlega sömu lausnir. 
 
 ### Efnisöflun og hugmyndavinna
 
@@ -34,7 +37,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
-### Tæknileg útfærlsa
+### Undirbúningsvinna
 
 1. Skipurit - _"SiteMap"_
    * [Búið til skipurit](Námsefni-6/)
@@ -43,7 +46,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 1. Stílbragð - _Style tyle_
    * [Ákveðið letur- og litasamsetningu](Námsefni-6/style-tyle/README.md)
 
-### Námsmat 12% af heildareinkunn
+### Námsmat 12% ath!
 
 * Hugmyndavinna 3%
 * Efnisöflun og Textavinna 3%
@@ -53,10 +56,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 ### Verkefnaskil
 
-- Öllum undirbúningsgögnum er skilað í eigin **"Privat"** verkefnageymslu á github. 
-- Kennari þarf að fá aðgang að verkefnageymslunni (_Settings -> Collaborators -> Invite members_)
+- Öllum undirbúningsgögnum er skilað í verkefnageymslu á github. 
 - Tengill á verkefnageymsluna er skilað í Innu
 
 #### _Einkunn verður birt í Innu_
-
->* _Umfjöllunarefni má ekki vera ólöglegt samkvæmt íslenskum lögum._

@@ -1,7 +1,22 @@
-# Kvikun 
+# Kvikun endurvinna lýsingu hér
 
-Búðu til myndasýningu (_slideshow_) sem **hægt er að nota í vefnum þínum**.
-Sýningin getur innihaldið texta og myndir eða bara annaðhvort, allt eftir því sem þú villt gera.
+Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
+
+### Undirbúningur 
+
+* Skjásvetta = _Splash screen_
+* Efnisinnihald getur verið tilkynning, tilboð eða auglýsing
+* gott er að skissa og/eða skrifa lýsingu á því hvað þú ætlar að framkvæma áður en þú byrjar á að kóða
+
+### Kóðun
+
+* Notið eftirfarandi CSS eigindi eftir þörfum
+  * _„transition“_  
+  * _„transform“_ 
+  * _„animation“_
+  * Útfærslan er í ykkar höndum.  
+
+* Dæmi: https://speckyboy.com/splash-screen-design/
 
 #### Lausnin á að vera í HTML og CSS 
 

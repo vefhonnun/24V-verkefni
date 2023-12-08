@@ -1,40 +1,53 @@
 # Verkefni 7 
 
-Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
+# Vefur fyrir viðburð
 
-### Undirbúningur 
+### Markmið:
+Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-* Skjásvetta = _Splash screen_
-* Efnisinnihald getur verið tilkynning, tilboð eða auglýsing
-* gott er að skissa og/eða skrifa lýsingu á því hvað þú ætlar að framkvæma áður en þú byrjar á að kóða
+### Hönnun er unnin samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
 
-### Kóðun
+Það sem á að vera á vefnum:
 
-* Notið eftirfarandi CSS eigindi eftir þörfum
-  * _„transition“_  
-  * _„transform“_ 
-  * _„animation“_
-  * Útfærslan er í ykkar höndum.  
+  * Upplýsingar um viðburð
+  * Tímasetning
+  * Dagskrá
+  * Upplýsingar um afurð fyrirtækisins
+  * Skráning á viðburðin (_aðeins útlit forms - engin virkni_)
+  * Upplýsingar um fyrirtækið sem heldur viðburðin
+  * Kvikun (_Animation_) til að fanga athygli notanda
 
-* Dæmi: https://speckyboy.com/splash-screen-design/
+#### Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
-### Frágangur
+#### Námsmat:  20% ath!
 
-#### Hvernig á að sameina margar CSS skrár í eina skrá
+1.	Skipulag - innihald  **8%**
+   	* SVG lógo er í &lt;header>
+    * Myndir og texti
+    * Form - Útlitshönnun - engin virkni
+    * Tafla - Sýnileg í öllum skjástærðum
+    * Efnisyfirlit - Fellilisti (_drop-down menu_) 
+2.	Útlitshönnun  **8%**
+    * Litasamsetning
+    * Leturval
+    * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
+    * Ein stílsíða (þjöppuð) 
+3. Kvikun  **4%**
+    * Á forsíðu er kvikun (_Animation_) notuð til að fanga athygli notanda.
+4. Frágangur
+    * Ein þjöppuð stílsíða tengd við html síður
+    * Allar myndir í sérmöppu 
+    * HTML5 og CSS ritháttur í lagi
+5. Vefurinn birtur á https://(_notandi_).github.io/(_undirlén_)
 
-1. Opna línuskipanaforritið _Command Promt_ í **PC** eða _Terminal_ í **Mac/Linux** 
-2. `cd ../css`  (_vísa CLI í css möppuna_)
-3. `dir *.css`  (_skoða allar css skrár_)
-4. `copy *.css styles.css`  (_afrita allar .css skrár í eina: styles.css_)
-5. [How To Merge Or Combine Multiple Files Into A Single File](https://www.youtube.com/watch?v=2VrfUyyqdEc)
 
-##### Þjöppun CSS kóða _CSS Compressor_
+#### ath! Verkefnaskil: Öllum vinnugögnum skal skilað í verkefnageymslu á Github (_repository_) 
 
-* Sækið viðbót (Extension) í Visual Studio Code sem heitir "CSS Compressor" 
-* Til að þjappa (_Compact_) kóðann saman, notið skipunina: `[shift]+[alt]+[f]`
+_Gangi ykkur vel_  
 
-#### Vefur á Github.io
-* [Uppsetning vefs á github.io](uppsetning-github.io/README.md)
+#### Einkunn verður birt í Innu
+
+
 
 ### Verkefnaskil
 
