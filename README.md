@@ -64,8 +64,8 @@
 3. Flókin stílbrögð 14%
 4. SVG vigurteikningar 14%
 5. CSS kvikun 14%
-6. Undirbúningur vefs 15% _Lykilamtsþáttur_
-7. Framleiðsla vefs 15% _Lykilamtsþáttur_
+6. Undirbúningur vefs 15% _Lykilmatsþáttur_
+7. Framleiðsla vefs 15% _Lykilmatsþáttur_
  
  ---
 
