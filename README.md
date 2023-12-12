@@ -57,6 +57,18 @@
   
  ---
 
+ ### Námsmat
+
+1. Vinnurammi 14%
+2. Töflur og form 14%
+3. Flókin stílbrögð 14%
+4. SVG vigurteikningar 14%
+5. CSS kvikun 14%
+6. Undirbúningur vefs 15% _Lykilamtsþáttur_
+7. Framleiðsla vefs 15% _Lykilamtsþáttur_
+ 
+ ---
+
 ### Verkefnaskil 
 
 -  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/verkefni(x) í .zip skrá
