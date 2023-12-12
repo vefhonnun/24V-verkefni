@@ -13,7 +13,7 @@
 
 #### 2024 vor, spönn 1. 
 
-| Vika  | Verkefni  | Nr. | Æfingar % | Próf % |
+| Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
 | 1  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x 
 | 2  | HTML & CSS vinnurammi (_framework_)  | 1 | 6 | 8 |
