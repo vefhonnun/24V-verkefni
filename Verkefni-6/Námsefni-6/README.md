@@ -1,5 +1,9 @@
 # Undirbúningur
 
+1. [Búið til skipurit](Sitemap.md)
+1. [Búið til leiðakerfi](Námsefni-6/wireframe/README.md)
+1. [Ákveðið letur- og litasamsetningu](Námsefni-6/style-tyle/README.md)
+
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
 1. Forsíða (löndunarsíða (_Landing page_)
