@@ -4,16 +4,6 @@
 
 Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl. Hér að neðan er dæmi um stílbragð og frumgerð.
 
-## Stílbragð (_Style tyle_)
-
-Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
-
-![Stílbragð](images/stílbragð.jpg) 
-
-* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
-  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
-
-
 ## Frumgerð í Inkscape (_Prototype_)
 
 Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
