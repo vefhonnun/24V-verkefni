@@ -1,12 +1,12 @@
 # Undirbúningur
 
-1. [Búið til skipurit](Sitemap.md)
-1. [Búið til leiðakerfi](wireframe/README.md)
-1. [Ákveðið letur- og litasamsetningu](style-tyle/README.md)
+1. Búið til skipurit
+1. Búið til leiðakerfi
+1. Ákveðið letur- og litasamsetningu
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
-1. Forsíða (löndunarsíða (_Landing page_)
+1. Forsíða - löndunarsíða (_Landing page_)
 2. Dagskrá eða vörulýsing (_Features_)
 4. Samskipti (_Contact_)
    * nýskráning 
@@ -14,7 +14,7 @@
    * viðskipti (_Buy - Order_)
 5. Almennar upplýsingar (_About Us_)
 
-<hr>
+---
 
 ## Leiðakerfi (_Site map_)
 
@@ -30,24 +30,22 @@ Dæmi um einfalt skipurit
   
 ```
 
-## Stílbragð (_Style tyle_)
-
-Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
-
-![Stílbragð](style-tyle/stílbragð.jpg) 
-
-* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
-  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
-
----
-
-<hr>
-
 ## Tengirammi (_Wireframe_)
 
 Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
 
 ![Tengirammi](wireframe/SVG/Wireframe.svg)
+
+---
+
+## Stílbragð (_Style tyle_)
+
+Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
+
+![Stílbragð](style-tyle/stílbragð.jpg) 
+
+* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
+  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
 ---
 
