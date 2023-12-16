@@ -29,7 +29,14 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 ![Tengirammi](wireframe/SVG/Wireframe.svg)
 
-## Stílbragð
+## Stílbragð (_Style tyle_)
+
+Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
+
+![Stílbragð](images/stílbragð.jpg) 
+
+* [Litahringurinn](https://color.adobe.com/create/color-wheel/)
+  * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
 [Frumgerð - _prototype_](prototype)
 
