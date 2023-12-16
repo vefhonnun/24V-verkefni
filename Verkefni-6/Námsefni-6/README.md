@@ -34,7 +34,7 @@ Dæmi um einfalt skipurit
 
 Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
 
-![Tengirammi](wireframe/SVG/Wireframe.svg)
+![Tengirammi](wireframe/Wireframe.svg)
 
 ---
 
