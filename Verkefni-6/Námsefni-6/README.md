@@ -18,12 +18,17 @@
 
 ## Leiðakerfi (_Site map_)
 
+Dæmi um einfalt skipurit
+
+```
   Forsíða (index) - stutt lýsing á hvað á að vera á forsíðunni
   |_ Um okkur - stutt lýsing á hvað á að vera á síðunni (eða undirkafla)
   |_ Dagskrá eða Vöru- þjónustulýsing í stuttu máli
      |_ Undirsíða eða pop up gluggi, ef það hentar
   |_ Pöntunarsíða - stutt lýsing á hvernig samskiptin eiga að vera
   |_ Annað sem á að vera í vefnum - stutt lýsing
+  
+```
 
 <hr>
 
@@ -37,7 +42,7 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
 
-![Stílbragð](images/stílbragð.jpg) 
+![Stílbragð](style-tyle/stílbragð.jpg) 
 
 * [Litahringurinn](https://color.adobe.com/create/color-wheel/)
   * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
