@@ -1,5 +1,10 @@
 # Vefhönnun
 
+# Verkefni VEFÞ1VG05A
+
+> ATH! það þarf að búa til tímaverkefni. Þau eru í sér geymslu "24V-timaverkefni"
+> Verklýsingar í lagi en má lesa yfir og lagfæra ef þurfa þykir
+
 1. [Verkefni](Verkefni-1/) Vinnurammi 
 2. [Verkefni](Verkefni-2/) Töflur og form
 3. [Verkefni](Verkefni-3/) Flókin stílbrögð
