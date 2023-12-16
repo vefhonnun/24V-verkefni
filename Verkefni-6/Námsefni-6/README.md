@@ -14,7 +14,6 @@
    * viðskipti (_Buy - Order_)
 5. Almennar upplýsingar (_About Us_)
 
----
 
 ## Leiðakerfi (_Site map_)
 
@@ -36,7 +35,6 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 ![Tengirammi](wireframe/Wireframe.svg)
 
----
 
 ## Stílbragð (_Style tyle_)
 
@@ -48,10 +46,6 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
   * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
 ---
-
-[Frumgerð - _prototype_](prototype)
-
---- 
 
 ## Bjargir
 
@@ -65,6 +59,7 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
 
 * [Gloomap skipurit](https://www.gloomaps.com/)
 * [Flæðirit - Diagram](https://www.drawio.com/)
+* [Frumgerð - _prototype_](prototype/README.md)
 
 #### Frumhönnunartól (_Prototype tool_)
 
