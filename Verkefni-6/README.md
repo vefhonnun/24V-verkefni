@@ -17,11 +17,11 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
   * Á vefnum er spurningaleikur eða einhver söluhvati sem viðskiptavinir geta tekið þátt í
   * Það þarf að form til að skrá sig til þáttöku í leik
 
-Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu strax í fyrsta tíma verkefnisins. <!-- ? Ef ekkert hefur verið ákveðið er hægt að nota ... ?-->
+### Hugmyndavinna
 
-> Engin á að fjalla um sama efni og nota nákvæmlega sömu lausnir. 
+> **Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni**. Engin á að fjalla um sama efni og nota nákvæmlega sömu lausnir. 
 
-### Efnisöflun og hugmyndavinna
+### Efnisöflun
 
 * Skrifið niður allar hugmyndir sem koma til greina
 * Veljið síðan eina hugmynd til að halda áfram með 
