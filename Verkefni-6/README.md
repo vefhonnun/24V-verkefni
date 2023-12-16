@@ -45,7 +45,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 [Sjá nánar](Námsefni-6/README.md)
 
-### Námsmat 15% 
+### Námsmat 15% - _lykilmatsþáttur_
 
 * Hugmyndavinna 3%
 * Efnisöflun og Textavinna 3%

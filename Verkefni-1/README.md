@@ -8,18 +8,25 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS 
 Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
 
 * [Grunnsíður - Boilerplate](Námsefni-1/)
-* [Sýnidæmi ath! breyta dæmi!](https://vefhonnun.github.io/synidaemi/verkefni-3/boilerplate/index.html)
+* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/boilerplate/index.html)
 
-### Námsmat:  12% af heildareinkunn
+### Námsmat:  
 
-* Skipulag – Layout			6%	
-  * 4% Dálkaskipulag - Grid 
-  *	2% Myndir aðlagast skjástærðum
-* Útlit					6%
-  * 4% CSS breytur - Litasamsetning
-  * 2% Leturval - leturnotkun	
+#### Æfingaverkefni 6%
 
-#### Innihald vefsíðunnar, texti og myndir er samkvæmt vali þínu í 1. verkefni. Innihaldið þarf ekki að vera 100% tilbúið fyrr en farið er yfir verkefnið í 1. lykilmatsþættinum.
+* Skipulag – Layout				
+  * 2% Dálkaskipulag - Grid 
+  *	1% Myndir aðlagast skjástærðum
+* Útlit					
+  * 2% CSS breytur - Litasamsetning
+  * 1% Leturval - leturnotkun	
 
+Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
+
+#### Tímaverkefni 8%
+
+- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 1 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
