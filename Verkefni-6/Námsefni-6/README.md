@@ -30,14 +30,6 @@ Dæmi um einfalt skipurit
   
 ```
 
-<hr>
-
-## Tengirammi (_Wireframe_)
-
-Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
-
-![Tengirammi](wireframe/SVG/Wireframe.svg)
-
 ## Stílbragð (_Style tyle_)
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
@@ -47,7 +39,21 @@ Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaði
 * [Litahringurinn](https://color.adobe.com/create/color-wheel/)
   * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
+---
+
+<hr>
+
+## Tengirammi (_Wireframe_)
+
+Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
+
+![Tengirammi](wireframe/SVG/Wireframe.svg)
+
+---
+
 [Frumgerð - _prototype_](prototype)
+
+--- 
 
 ## Bjargir
 
