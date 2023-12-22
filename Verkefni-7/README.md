@@ -53,10 +53,10 @@ _Gangi ykkur vel_
 
 Skilaðu vefnum og öllum vinnugögnum sem tilheyra verkefninu í Github verkefnageymsluna.
 
-### Námsmat 15%
+### Námsmat 15% - _Lykilmatsþáttur_
 
 
-* 10%  Útlitshönnun
+* 9%  Útlitshönnun
     * Letur og litaval
     * Efnisyfirlit
     * Töflur og form
@@ -65,7 +65,7 @@ Skilaðu vefnum og öllum vinnugögnum sem tilheyra verkefninu í Github verkefn
     * Ein þjöppuð stílsíða tengd við allar html síðurnar
     * Allar myndir í sérmöppu 
     * HTML5 og CSS ritháttur í lagi
-* 2%  Birting vefs á internetinu (username.github.io/)
+* 3%  Birting vefs á internetinu (username.github.io/)
 
 Einkunn er birt í Innu.
 
