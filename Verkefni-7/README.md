@@ -17,7 +17,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
   * Upplýsingar um fyrirtækið sem heldur viðburðin
   * Kvikun (_Animation_) til að fanga athygli notanda
 
-#### Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
+> Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
 ### Námsmat 15% - _Lykilmatsþáttur_
 
@@ -41,7 +41,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 5. Vefurinn birtur á internetinu **2%**
     * https://(_notandi_).github.io/(_undirlén_)
 
-#### ath! Verkefnaskil: Öllum vinnugögnum skal skilað í Verkefni 7 í Innu ásamt tengli á vefinn (username.github.io/)
+#### Verkefnaskil: Öllum vinnugögnum skal skilað í Verkefni 7 í Innu ásamt tengli á vefinn (username.github.io/)
 
 #### Einkunn verður birt í Innu
 
