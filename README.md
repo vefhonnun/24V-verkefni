@@ -57,7 +57,7 @@
    * Efni vefs er valsfrjálst, nemendur:
       * safna saman texta og myndum sem hægt er að nota
       * ákveða litaþema og leturval vefs (_Style-tyle_)
-      * búa til efnisyfirlit (_Site-map_) og Leiðakerfi (Wire-frame)
+      * búa til efnisyfirlit (_Site-map_) og leiðakerfi (Wire-frame)
 1. verkefni. Vefur fyrir viðburð. 
       * framleiðsla og frágangur
       * Vefur er birtur á https://(user).github.io/(subdomain)
