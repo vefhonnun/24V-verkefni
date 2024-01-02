@@ -5,10 +5,10 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis og á hönnun CSS 
 
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, litaval og leturnotkun. 
 
-Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
+Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til að búa til þitt eigið grunnsíðukerfi. Vefurinn á að sýna skipulag og útlit vefsins. 
 
-* [Grunnsíður - Boilerplate](Námsefni-1/)
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/boilerplate/index.html)
+* [Grunnsíður - Boilerplate](Námsefni-1/boilerplate/)
+* [New.css](https://github.com/xz/new.css)
 
 ### Námsmat:  
 
