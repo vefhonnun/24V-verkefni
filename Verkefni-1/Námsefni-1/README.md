@@ -43,18 +43,22 @@ a:active {
 Mörg fyrirtæki velja sér lita- og letursamsetningu til að aðgreina sig frá keppinautum þannig að það er gott að geta skilgreint litasamsetningu í upphafi stílsíðu og þar sem sami liturinn birtist á mismunandi flötum og letri þá er alltaf kallað á sama litinn.  Síðan er hægt að yfirfæra stílana yfir á annað fyrirtæki og skipta þá aðeins um litina í breytunum.
 Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
-####  Skipulag vefs
 
-* [Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
-* [CSS grid](https://gridbyexample.com/)
-* [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+####  _CSS mini framework_
+
+* [New.css](https://github.com/xz/new.css)
+* [Portal - Minimal CSS](https://github.com/dohliam/dropin-minimal-css)
 
 #### CSS breytur
 
 * [CSS breytur W3Schools](https://www.w3schools.com/css/css3_variables.asp)
 * [Moz:lla, CSS eigindi - CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+* [Breytilegt litaþema](https://web.dev/articles/prefers-color-scheme)
+* [CSS calc('litaskali)](https://blog.jim-nielsen.com/2021/css-relative-colors/)
 
-#### CSS _Grid template_ skipulag 
+#### CSS _Grid_ skipulag 
 
 * [Moz:lla - CSS Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
 * [W3Schools - CSS Grid template](https://www.w3schools.com/cssref/pr_grid-template.asp)
+* [CSS grid dæmi](https://gridbyexample.com/)
+* [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
