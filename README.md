@@ -69,6 +69,8 @@
 6. Undirbúningur vefs 15% _Lykilmatsþáttur_
 7. Framleiðsla vefs 15% _Lykilmatsþáttur_
 
+> _Lágmarkseinkun lykilmatsþáttar er 4. Ef einkunn er undir 4 þá stendur hún sem lokaeinkun úr áfanganum_
+
 ***
 
 ### Verkefnaskil 
