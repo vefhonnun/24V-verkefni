@@ -8,7 +8,6 @@
 6. [Verkefni](Verkefni-6/) Undirbúningur vefs
 7. [Verkefni](Verkefni-7/) Framleiðsla vefs
 
-
 ## Námsáætlun
 
 #### 2024 vor, spönn 1. 
@@ -25,8 +24,6 @@
 | 8  | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 9 | _Síðasti  kennsludagur 29. febrúar_. | | 30 | 40 / 30  |
 | 10 | _Námsmat_ |   |   | 100  |
-
----
 
 ### Vikuáætlun 
 
@@ -56,8 +53,6 @@
 1. verkefni. Vefur fyrir viðburð. 
       * framleiðsla og frágangur
       * Vefur er birtur á https://(user).github.io/(subdomain)
-  
- ---
 
  ### Námsmat
 
