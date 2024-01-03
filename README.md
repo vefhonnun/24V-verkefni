@@ -25,8 +25,6 @@
 | 9 | _Síðasti  kennsludagur 29. febrúar_. | | 30 | 40 / 30  |
 | 10 | _Námsmat_ |   |   | 100  |
 
-***
-
 ### Vikuáætlun 
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
@@ -41,7 +39,7 @@
 | 9 | CSS þjöppun | Frágangur |  Vefur á Github.io | _Námsmat_ |
 
 ### Verklýsing
- 
+
 1. verkefni. Nemendur setja upp veframma (_web framework_) sem er með grid dálkaskipulagi
 1. verkefni. Sveigjanleg tafla og form sett í veframmann
 1. verkefni. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til 
