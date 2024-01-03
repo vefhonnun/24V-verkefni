@@ -25,6 +25,8 @@
 | 9 | _Síðasti  kennsludagur 29. febrúar_. | | 30 | 40 / 30  |
 | 10 | _Námsmat_ |   |   | 100  |
 
+***
+
 ### Vikuáætlun 
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
