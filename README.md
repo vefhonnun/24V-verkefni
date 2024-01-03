@@ -68,8 +68,6 @@
 5. CSS kvikun 14%
 6. Undirbúningur vefs 15% _Lykilmatsþáttur_
 7. Framleiðsla vefs 15% _Lykilmatsþáttur_
- 
- ---
 
 ***
 
