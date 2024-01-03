@@ -1,4 +1,4 @@
-#  Verkefni VEFÞ2VH5A
+#  Verkefni VEFÞ2VH05AU
 
 1. [Verkefni](Verkefni-1/) Vinnurammi 
 2. [Verkefni](Verkefni-2/) Töflur og form
