@@ -51,7 +51,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
 * Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
-- **[Bjargir](https://github.com/vefhonnun/24-Verkefni/wiki#t%C3%B6flur)**
+- **[Bjargir](https://github.com/vefhonnun/24V-verkefni/wiki#t%C3%B6flur)**
 
 ### Námsmat:  
 
