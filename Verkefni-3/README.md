@@ -26,11 +26,24 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
 
-### Námsmat ath!%
+### Námsmat:  
 
-* 2%  Leiðakerfi og svegjanleg virkni (RWD)
-* 6%  Fellilisti í efnisyfirliti (_Drop down menu_) 
-* 4%  Sprettigluggi (_Pop up menu_)
+#### Æfingaverkefni 6%
+
+* Fellilisti í efnisyfirliti (_Drop down menu_) 
+* Sprettigluggi (_Pop up menu_)
+
+Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
+
+#### Tímaverkefni 8%
+
+- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
+
+#### Einkunn verður birt í Innu
+
+_Gangi þér vel_
 
 <!-- of mikið efni til að fara yfir má kannski bæt við í lokaverkefni ?
 * 4% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)

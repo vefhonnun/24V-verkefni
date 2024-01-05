@@ -40,8 +40,6 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 * Notið „select option, checkbox og radio“. 	
 * Notið aðra leturgerð og stærð í „textarea“
 
-### Námsmat 12%
-
 #### Tafla 
 
 * Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
@@ -55,11 +53,25 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 - **[Bjargir](https://github.com/vefhonnun/24-Verkefni/wiki#t%C3%B6flur)**
 
-### Verkefnaskil
+### Námsmat:  
 
-Öllum vinnugögnum á að skila í verkefnageymsluna þína og tengil á verkefnið í Innu.
+#### Æfingaverkefni 6%
 
-#### Einkunn verður birt í Innu.
+* Tafla				
+  * aðlagast skjástærðum
+* Form					
+  * aðlagast skjástærðum
+  * innsláttarreitir eru skylyrtir (_required_)	
+
+Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
+
+#### Tímaverkefni 8%
+
+- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
+
+#### Einkunn verður birt í Innu
 
 _Gangi þér vel_
 

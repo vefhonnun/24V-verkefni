@@ -20,13 +20,21 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 * [Using SVG](https://css-tricks.com/using-svg/)
 * [Icomoon leturtákn ](https://icomoon.io/)
 * [How to use Icomoon font](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
+* [SVG firmamerki](https://svgporn.com/) 
 
-### SVG firmamerki
+### Námsmat:  
 
-* https://svgporn.com/ 
+#### Æfingaverkefni 6%
 
-### Námsmat 14%
+Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
 
-- 6% æfingar
-- 8% próf
+#### Tímaverkefni 8%
+
+- Tímaverkefni. Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
+
+#### Einkunn verður birt í Innu
+
+_Gangi þér vel_
 

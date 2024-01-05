@@ -32,8 +32,18 @@
 1.  [Code pen](https://codepen.io/paulnoble/pen/ZYOzLG)
 1.  [Code pen](https://codepen.io/jaskiranchhokar/pen/wmGXav)
 
-### Námsmat 14%
+#### Æfingaverkefni 6%
 
-- 6% æfingar
-- 8% próf
+Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-5_ í þjappaðri skrá, **Æfingar.zip**. 
+
+#### Tímaverkefni 8%
+
+- Tímaverkefni. Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-5_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
+
+#### Einkunn verður birt í Innu
+
+_Gangi þér vel_
+
 
