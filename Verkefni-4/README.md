@@ -1,6 +1,6 @@
 # SVG vigurteikning - _Vector graphics_
 
-Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefinn ykkar. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Það er hægt að teikna það í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
+Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Lógóið er hægt að teikna í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
 
 ## Icomoon táknletur
 
@@ -26,13 +26,13 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 #### Æfingaverkefni 6%
 
-Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
+Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í þjappaðri skrá, **Æfingar.zip**. 
 
 #### Tímaverkefni 8%
 
-- Tímaverkefni. Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
+- Tímaverkefni. Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í sér skrá, **Tímaverkefni.zip**. 
 
-> Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
+> Skil á verkefni 4 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
 
