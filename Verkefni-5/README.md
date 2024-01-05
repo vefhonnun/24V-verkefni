@@ -1,6 +1,8 @@
-# Kvikun endurvinna lýsingu hér
+# Kvikun 
 
 Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
+
+1. Búðu til tilkynningu eða auglýsingu og settu hana á vefsíðuna sem þú gerðir í síðasta verkefni.
 
 ### Undirbúningur 
 
