@@ -1,6 +1,6 @@
 # Tafla  &lt;Table> 
 
-Bættu töflu inn í vefsíðuna, innhald töflunar á að vera dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta en innihald töflunnar á að vera klárt þegar farið er yfir verkefnið í yfirferð verkefna (_Lykilmatsþáttur - 4. verkefni_). 
+Búðu til töflu á vefsíðu, innhald töflunar getur verið dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta.
 
 Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
@@ -44,17 +44,16 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 #### Tafla 
 
-* 2% Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* 2% Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* 2% Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+* Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
+* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
+* Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
 
 #### Form 
-* 3%	input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
-* 3%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+* input -text, -email, -radio, -checkbox, select og textarea er í pöntunarformi 
+* Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
-- **[Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)**
-- **[Bjargir](https://github.com/vefhonnun/23-Verkefni-s1/wiki#t%C3%B6flur)**
+- **[Bjargir](https://github.com/vefhonnun/24-Verkefni/wiki#t%C3%B6flur)**
 
 ### Verkefnaskil
 
