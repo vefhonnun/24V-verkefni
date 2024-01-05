@@ -9,13 +9,11 @@ Nú á að búa til efnisyfirlit á vefsíðuna, gerið ráð fyrir að það s�
  
 Í skjáum stærri en 48em á efnisyfirlitið að vera lárétt efst á síðunni með fastri (_„fixed“_) staðsetningu
 
-Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og ≡ hnappur er efst á síðunni
+Í minni skjástærðum 20em – 48em, á efnisyfirlitið að vera í fellilista (_drop down menu_) og [≡] hnappur er efst á síðunni
  
-Þegar smellt er á ≡ hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
+Þegar smellt er á [≡] hnappinn þá birtist efnisyfirlitið og fer tilbaka þegar smellt er aftur á takkann. 
 
 Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
-
-Nú er vinsælt að hafa spjallborð í vefsíðum og yfirleitt er það falið en hnappur er staðsettur neðst í hægra horni. Þegar ýtt er á hnappinn þá birtist spjallborðið.
 
 ### Sprettigluggi (_Pop up menu_)
 
