@@ -13,7 +13,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
-<!--* [Sýnidæmi](). ath --> 
+- [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 
 ### SVG Bjargir
 
