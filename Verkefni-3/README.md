@@ -31,13 +31,14 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 #### Æfingaverkefni 6%
 
 * Fellilisti í efnisyfirliti (_Drop down menu_) 
-* Sprettigluggi (_Pop up menu_)
-
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
+* Sprettigluggi (_Pop up menu_) 
 
 #### Tímaverkefni 8%
 
-- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í sér skrá, **Tímaverkefni.zip**. 
+#### Verekfnaskil
+
+- **Tímaverkefni og æfingaverkefni er skila á sömu vefsíðu og stílsíðu**
+- er skilað í _Innu/VEFÞ2VH05BU/Verkefni-3_  í þjappaðri skrá, **Verkefni-3.zip**. 
 
 > Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
