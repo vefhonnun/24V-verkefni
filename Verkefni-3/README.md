@@ -52,6 +52,3 @@ _Gangi þér vel_
 
 Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur og saman eins og harmonika. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) og hér er [annað dæmi](https://codepen.io/alvarotrigo/pen/dyJyxQm)
 -->
-
-
-#### Einkunn verður birt í Innu
