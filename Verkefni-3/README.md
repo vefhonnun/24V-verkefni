@@ -37,7 +37,7 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 #### Verekfnaskil
 
-- **Tímaverkefni og æfingaverkefni er skila á sömu vefsíðu og stílsíðu**
+- **Tímaverkefni og æfingaverkefni er skilað á sömu vefsíðu og stílsíðu**
 - er skilað í _Innu/VEFÞ2VH05BU/Verkefni-3_  í þjappaðri skrá, **Verkefni-3.zip**. 
 
 > Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
