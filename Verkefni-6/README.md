@@ -4,7 +4,8 @@
 
 ### Markmið:
 
-Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
+* Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs. Efni og umfjöllun er _frjáls_. 
+* Nemendur finna eigið efni og myndir til að nota í lokaverkefninu
 
 ---
 
@@ -19,7 +20,8 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 ### Hugmyndavinna
 
-> **Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni**. <br>Engin á að fjalla um sama efni og nota nákvæmlega sömu lausnir. 
+* Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni
+* [Dæmi um efni lokaverkefnis](Námsefni-6/Hugmyndavinna.md)
 
 ### Efnisöflun
 
