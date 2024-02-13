@@ -57,7 +57,6 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 ### Verkefnaskil
 
-- Öllum undirbúningsgögnum er skilað í verkefnageymslu á github. 
-- Tengill á verkefnageymsluna er skilað í Innu
+- Öllum undirbúningsgögnum er skilað í Innu/VEFÞ2VH05BU/Verkefni 6
 
 #### _Einkunn verður birt í Innu_
