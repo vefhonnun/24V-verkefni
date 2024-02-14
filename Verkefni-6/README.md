@@ -16,11 +16,11 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 * Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
   * Það á að vera möguleiki á að panta vöru eða þjónustu
   * Á vefnum er spurningaleikur eða einhver söluhvati sem viðskiptavinir geta tekið þátt í
-  * Það þarf að form til að skrá sig til þáttöku í leik
+  * Það þarf að vera form til að skrá sig til þátttöku í leik
 
 ### Hugmyndavinna
 
-* Það er gott ef nemendur hafi ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni
+* Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni
 * [Dæmi um efni lokaverkefnis](Námsefni-6/Hugmyndavinna.md)
 
 ### Efnisöflun
@@ -34,7 +34,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 * Upplýsingar um vöruna og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
-* Vörulisti (tafla) 
+* Vöru- eða dagskrárlisti (tafla) 
 * Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
