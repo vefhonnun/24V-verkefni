@@ -13,8 +13,8 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
   * Tímasetning
   * Dagskrá
   * Upplýsingar um afurð fyrirtækisins
-  * Skráning á viðburðin (_aðeins útlit forms - engin virkni_)
-  * Upplýsingar um fyrirtækið sem heldur viðburðin
+  * Skráning á viðburðinn (_aðeins útlit forms - engin virkni_)
+  * Upplýsingar um fyrirtækið sem heldur viðburðinn
   * Kvikun (_Animation_) til að fanga athygli notanda
 
 > Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
@@ -24,7 +24,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 1.	Skipulag - innihald  **4%**
    	* SVG lógo er í &lt;header>
     * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
-    * Form - með skilyrtum insláttareitum
+    * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
 2.	Útlitshönnun  **3%**
