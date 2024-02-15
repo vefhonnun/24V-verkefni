@@ -78,4 +78,8 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
 * [7 Interactive Elements That Will Help You Get Users Attention](https://bamboolab.eu/blog/development/7-interactive-elements-that-will-help-you-get-users-attention)
 * [How to Create a Landing Page That Will Sell Your Software Product](https://bamboolab.eu/blog/development/how-to-create-a-landing-page-that-will-sell-your-software-product)
 * [UX Checklist](https://uxchecklist.github.io/)
-* [52 weeks of UX](http://52weeksofux.com/post/475093254/10-principles-of-ux) 
+* [52 weeks of UX](http://52weeksofux.com/post/475093254/10-principles-of-ux)
+
+#### Annað
+
+[Leturval af google fonts](https://github.com/vefgrunnur/24V-verkefni/tree/main/Verkefni-5/Namsefni-5/google-fonts)
