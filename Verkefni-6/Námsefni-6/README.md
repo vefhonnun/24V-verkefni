@@ -49,9 +49,9 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
 
 #### Undirbúningur
 
-* [How to create a website prototype](https://ruttl.com/blog/how-to-create-a-website-prototype/)
 * [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
 * [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
+* [How to create a website prototype](https://ruttl.com/blog/how-to-create-a-website-prototype/)
 <!--
 #### Skipulag og frumhönnun
 
