@@ -72,8 +72,9 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
   * [Creating interactive wireframes with Inkscape and JavaScript](https://eclipsesource.com/blogs/2012/07/03/wireframing-inkscape-javascript/)
   * [How to add round corners (_border-radius_)](https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/)
   * [Inkscape leiðbeiningar](https://thepixelproducer.com/category/inkscape/)
+<!--
 * [Frumhönnun vefs](https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/)
-* [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)
+* [Free Prototyping tools](https://theproductmanager.com/tools/best-free-prototyping-tools/)-->
 
 #### Notendaupplifun
 
