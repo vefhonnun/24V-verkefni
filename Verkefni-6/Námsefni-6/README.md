@@ -2,7 +2,7 @@
 
 1. Skipurit (_Site map_)
 1. Tengirammi (_Wireframe_)
-1. Letur- og litasamsetningu
+1. Letur- og litasamsetning
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
