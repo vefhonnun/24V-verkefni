@@ -51,18 +51,22 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
 
 #### Undirbúningur
 
+* [How to create a website prototype](https://ruttl.com/blog/how-to-create-a-website-prototype/)
 * [Undirbúningur í 7 þáttum](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
-* [Vefhönnun í 3 þáttum](https://webflow.com/blog/3-tools-to-power-your-design-review-process)
 * [Leiðarkerfi (Wireframe)](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
-
+<!--
 #### Skipulag og frumhönnun
 
 * [Gloomap skipurit](https://www.gloomaps.com/)
 * [Flæðirit - Diagram](https://www.drawio.com/)
 * [Frumgerð - _prototype_](prototype/README.md)
-
+-->
 #### Frumhönnunartól (_Prototype tool_)
 
+* [inVision](https://www.invisionapp.com/product/prototype)
+* [Figma](https://www.figma.com/)
+* [Sketch - Mac](https://www.sketch.com/)
+* [Webflow](https://webflow.com/)
 * Inkscape
   * [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
     * [Inkscape custom palette](https://manjitkarve.com/posts/inkscape-custom-palette/)
