@@ -1,8 +1,8 @@
 # Undirbúningur
 
-1. Búið til skipurit
-1. Búið til leiðakerfi
-1. Ákveðið letur- og litasamsetningu
+1. Skipurit (_Site map_)
+1. Tengirammi (_Wireframe_)
+1. Letur- og litasamsetningu
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
@@ -15,7 +15,7 @@
 5. Almennar upplýsingar (_About Us_)
 
 
-## Leiðakerfi (_Site map_)
+## Skipurit (_Site map_)
 
 Dæmi um einfalt skipurit
 
