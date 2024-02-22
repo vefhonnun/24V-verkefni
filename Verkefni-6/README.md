@@ -18,7 +18,8 @@
 - Þjónusta sem fyrirtæki býður upp á
   - Það á að vera möguleiki á að panta þjónustuna
 
-* Varan og/eða þjónusta er kynnt á ákveðnum degi 
+#### Varan og/eða þjónusta er kynnt á ákveðnum degi 
+
   * Á vefnum er spurningaleikur eða einhver söluhvati sem viðskiptavinir geta tekið þátt í
   * Það þarf að vera form til að skrá sig til þátttöku í leik
 
