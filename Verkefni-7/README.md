@@ -30,7 +30,6 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 -	**4%** Útlitshönnun  
     * Litasamsetning
     * Leturval
-    * Ein stílsíða (þjöppuð) 
 - **3%** Kvikun  
     * Kvikun (_Animation_) 
     * Myndasýning (_Slideshow_) ef það á við
