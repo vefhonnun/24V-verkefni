@@ -21,24 +21,24 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 ### Námsmat 15% - _Lykilmatsþáttur_
 
-1.	**4%** Skipulag - innihald  
+-	**4%** Skipulag - innihald  
    	* SVG lógo er í &lt;header>
     * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
     * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
-2.	**4%** Útlitshönnun  
+-	**4%** Útlitshönnun  
     * Litasamsetning
     * Leturval
     * Ein stílsíða (þjöppuð) 
-3. **3%** Kvikun  
+- **3%** Kvikun  
     * Kvikun (_Animation_) 
     * Myndasýning (_Slideshow_) ef það á við
-4. **2%** Frágangur 
+- **2%** Frágangur 
     * Ein þjöppuð stílsíða tengd við html síður
     * Allar myndir í sérmöppu 
     * HTML5 og CSS ritháttur í lagi
-5. **2%** Vefurinn birtur á internetinu 
+- **2%** Vefurinn birtur á internetinu 
     * https://(_notandi_).github.io/(_undirlén_)
 
 #### Verkefnaskil: Öllum vinnugögnum skal skilað í Verkefni 7 í Innu ásamt tengli á vefinn (username.github.io/)
