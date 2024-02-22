@@ -9,7 +9,7 @@
 
 ---
 
-### Þema
+### Þema (val)
 
 - Viðburður á einhverjum tilteknum tíma
   - Það á að vera möguleiki á að panta vöruna
