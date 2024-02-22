@@ -36,11 +36,13 @@
 
 ### Innihald vefsins
 
-* Upplýsingar um vöruna og/eða þjónustu
+* Upplýsingar um viðburði, vöru og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
-* Vöru- eða dagskrárlisti (tafla) 
-* Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
-* Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
+* Vörulisti, þjónusta í boði eða dagskrá (tafla)
+* Pöntunarform eða skráningarfom
+  * _aðeins útlit forms - engin virkni_
+* Samskiptaform - spjallrás
+  * pop up rammi _aðeins útlit forms - engin virkni_
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
 ### Undirbúningsvinna
