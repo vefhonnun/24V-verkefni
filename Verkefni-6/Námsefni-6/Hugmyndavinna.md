@@ -18,7 +18,11 @@ Efnisyfirlit
 
 ---
 
-Tónlistarmaðurinn **Q** verður með tónleika á Sólstöðuhátíð Grímseyinga 22. júní. ..................................................
+Tónlistarmaðurinn **Q** verður með tónleika á Sólstöðuhátíð Grímseyinga 22. júní. 
+
+Taktu þátt í einföldum spurningaleik og skráðu þig í lukkupottinn. 10 heppnir þáttakendur fá flug til Grímseyjar og miða á tónleika **Q**
+
+Hnappur **Sólstöðuhátíð Q**  
 
 Á Sólstöðum fagna Grímseyingar „_nóttlausri voraldar veröld, þar sem víðsýnið skín_“ eins og segir í kvæðinu eftir Stephan G. Þetta árið er dagskrá hátíðarinnar að venju fremur glæsileg og öllu tjaldað til. Í tengslum við Sólstöðuhátíðina mætir listamaðurinn víðfrægi **Q** til Grímseyjar og meðal annars færir listaverkið „Hringur og kúla“ (Orbis et Globus) til svo það sitji á réttri staðsetningu norðurheimskautsbaugsins árið 2024. Allir eru velkomnir til Grímseyjar. Hægt er að panta gistirými og alltaf er pláss á tjaldsvæðinu. 
 
