@@ -41,7 +41,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 - **2%** Vefurinn birtur á internetinu 
     * https://(_notandi_).github.io/(_undirlén_)
 
-#### Verkefnaskil: Öllum vinnugögnum skal skilað í Verkefni 7 í Innu ásamt tengli á vefinn (username.github.io/)
+#### Verkefnaskil: Öllum vinnugögnum skal skilað í Verkefni 7 í Innu ásamt tengli á vefinn https://(_notandi_).github.io/(_undirlén_)
 
 #### Einkunn verður birt í Innu
 
