@@ -12,7 +12,7 @@
 ### Þema (val)
 
 - Viðburður á einhverjum tilteknum tíma
-  - Það á að vera möguleiki á að panta vöruna
+  - Það á að vera möguleiki á að skrá sig á viðburð
 - Kynningarvefur um vöru sem er á markaði
   - Það á að vera möguleiki á að panta vöruna
 - Þjónusta sem fyrirtæki býður upp á
