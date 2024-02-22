@@ -9,12 +9,16 @@
 
 ---
 
-### Þema, _vörukynning_ 
+### Þema
 
-Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
+- Viðburður á einhverjum tilteknum tíma
+  - Það á að vera möguleiki á að panta vöruna
+- Kynningarvefur um vöru sem er á markaði
+  - Það á að vera möguleiki á að panta vöruna
+- Þjónusta sem fyrirtæki býður upp á
+  - Það á að vera möguleiki á að panta þjónustuna
 
-* Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
-  * Það á að vera möguleiki á að panta vöru eða þjónustu
+* Varan og/eða þjónusta er kynnt á ákveðnum degi 
   * Á vefnum er spurningaleikur eða einhver söluhvati sem viðskiptavinir geta tekið þátt í
   * Það þarf að vera form til að skrá sig til þátttöku í leik
 
