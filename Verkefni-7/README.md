@@ -33,7 +33,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
     * Ein stílsíða (þjöppuð) 
 3. Kvikun  **4%**
     * Kvikun (_Animation_) 
-    * Myndasýning (_Slideshow_)
+    * Myndasýning (_Slideshow_) ef það á við
 4. Frágangur **2%**
     * Ein þjöppuð stílsíða tengd við html síður
     * Allar myndir í sérmöppu 
