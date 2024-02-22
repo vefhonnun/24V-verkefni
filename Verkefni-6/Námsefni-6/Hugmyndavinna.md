@@ -24,11 +24,15 @@ Taktu þátt í einföldum spurningaleik og skráðu þig í lukkupottinn. 10 he
 
 Hnappur **Sólstöðuhátíð Q**  
 
-Spurningalisti
-- [x] Hvenær eru sólstöður að sumri?
+#### Spurningalisti (form)
+
+- [ ] Hvenær eru sólstöður að sumri?
 - [ ] Hvað er Q gamall?
 - [ ] Hvenær eru tónleikar Q í Grímsey?
 - [ ] Hvað búa margir í Grímsey allt árið? 
+
+ **Nafn, tölvupóstfang og símanúmer** verður að fylla út áður en hægt er að senda formið
+
 
 ---
 
