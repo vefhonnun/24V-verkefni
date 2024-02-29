@@ -33,13 +33,14 @@
 | --- | --- | --- | --- | --- | 
 | 10 | --- | --- |  Vinnurammi - framework| Grid skipulag (RWD) |
 | 11 | CSS variables, Litaþema | **Tímaverkefni** | Töflur | Töflur RWD |
-| 11 | Form | Form validation | **Tímaverkefni** | Complex selectors |
-| 4 | Complex selectors | Drop down menu | Pop up menu | **Tímaverkefni** |
-| 5 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
-| 6 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
-| 7 | Hönnun vefs, undirbúningur | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
-| 8 | _Vetrarfrí_ |Framleiðsla | Framleiðsla | Framleiðsla |
-| 9 | CSS þjöppun | Frágangur |  Vefur á Github.io | _Námsmat_ |
+| 12 | Form | Form validation | **Tímaverkefni** | Complex selectors |
+| 14 | Complex selectors | Drop down menu | Pop up menu | **Tímaverkefni** |
+| 15 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
+| 16 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
+| 17 | --- | ---| Hönnun vefs, undirbúningur | Skipulag (site-map) | 
+| 18 | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  Framleiðsla | Framleiðsla |
+| 19 | Framleiðsla |Framleiðsla | Framleiðsla | Framleiðsla |
+| 20 | CSS þjöppun | Vefur á Github.io | _Námsmat_ | _Námsmat_ |
 
 ### Verklýsing
 
