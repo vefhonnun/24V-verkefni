@@ -20,7 +20,7 @@
 | 13 | _Páskafrí_  | - | - | - |
 | 14 | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
 | 15 | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
-| 16 | CSS kvikun (_Transform, transition & animation_) | 5 | 6 | 9 |
+| 16 | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
 | 17 | Vefur fyrir viðburð, undirbúningur. | 6 | - | - |
 | 18 | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
 | 19 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
