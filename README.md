@@ -14,18 +14,18 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 10 | HTML & CSS vinnurammi (_framework_)  | 1 | - | - | 
-| 11 | Vinnurammi (_framework_)  | 1 | 5 | 9 |
-| 12 | Töflur og form  | 2 | 5 | 9 |
-| 13 | _Páskafrí_  | - | - | - |
-| 14 | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
-| 15 | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
-| 16 | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
-| 17 | Vefur fyrir viðburð, undirbúningur. | 6 | - | - |
-| 18 | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 19 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 20 | _Síðasti  kennsludagur 15.maí_.   | 7 | 30 | 40 / 30  |
-| 21 | _Námsmat_ |   |   | 100  |
+| 10  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x 
+| 11  | HTML & CSS vinnurammi (_framework_)  | 1 | 6 | 8 |
+| 12  | Töflur og form  | 2 | 6 | 8 |
+| 13  | _Páskafrí_ | - | - | - |
+| 14  | Flókin stílbrögð (_Complex selectors_) | 3 | 6 | 8 |
+| 15  | SVG vigurteikningar (_Vector graphics_) | 4 | 6 | 8 |
+| 16  | CSS kvikun (_Transform, transition & animation_) | 5 | 6 | 8 |
+| 17  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 18  | Undirbúningur / framleiðsla | 6 | - | - |
+| 19  | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 20 | _Síðasti kennsludagur 15. maí_. | | 30 | 40 / 30  |
+| 10 | _Námsmat_ |   |   | 100  |
 
 ### Vikuáætlun 
 
