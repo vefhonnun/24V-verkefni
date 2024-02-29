@@ -34,6 +34,7 @@
 | 10 | --- | --- |  Vinnurammi - framework| Grid skipulag (RWD) |
 | 11 | CSS variables, Litaþema | **Tímaverkefni** | Töflur | Töflur RWD |
 | 12 | Form | Form validation | **Tímaverkefni** | Complex selectors |
+| 13 | _Páskafrí_ | --- | --- | --- |
 | 14 | Complex selectors | Drop down menu | Pop up menu | **Tímaverkefni** |
 | 15 | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni** | 
 | 16 | Kvikun, transform | transition | @keyframe | **Tímaverkefni** |   
