@@ -25,7 +25,7 @@
 | 18  | Undirbúningur / framleiðsla | 6 | - | - |
 | 19  | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 20 | _Síðasti kennsludagur 15. maí_. | | 25 | 45 / 30  |
-| 10 | _Námsmat_ |   |   | 100  |
+| 21 | _Námsmat_ |   |   | 100  |
 
 ### Vikuáætlun 
 
