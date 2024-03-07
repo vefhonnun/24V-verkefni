@@ -25,7 +25,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri
 
 #### Tímaverkefni 8%
 
-- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í sér skrá, **Tímaverkefni.zip**. 
+- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ2VH/Verkefni-1_ í sér skrá, **Tímaverkefni.zip**. 
 
 > Skil á verkefni 1 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
