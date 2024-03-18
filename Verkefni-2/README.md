@@ -61,7 +61,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   * aðlagast skjástærðum
 * Form					
   * aðlagast skjástærðum
-  * innsláttarreitir eru skylyrtir (_required_)	
+  * innsláttarreitir eru skilyrtir (_required_)	
 
 Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
 
