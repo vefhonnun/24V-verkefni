@@ -41,7 +41,7 @@
 | 17 | @keyframe animation | **Tímaverkefni 5** |  Lokaverkefni Hönnun vefs | --- |
 | 18 | --- | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |    
 | 19 | Útlitshönnun | Framleiðsla | Framleiðsla | Framleiðsla |
-| 20 | CSS þjöppun | Vefur á Github.io | _Námsmat_ | _Námsmat_ |
+| 20 | Frágangur | Vefur á Github.io | _Námsmat_ | _Námsmat_ |
 
 ### Verklýsing
 
