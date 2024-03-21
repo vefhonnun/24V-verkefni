@@ -27,7 +27,7 @@
 | 20 | _Síðasti kennsludagur 15. maí_. | | 25 | 45 / 30  |
 | 21 | _Námsmat_ |   |   | 100  |
 
-### Vikuáætlun 
+### Vikuáætlun hópur 1.
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
