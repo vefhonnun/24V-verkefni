@@ -38,8 +38,8 @@
 | 14 | --- | --- | Drop down menu | Pop up menu | 
 | 15 | **Tímaverkefni 3** | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon |  
 | 16 | **Tímaverkefni 4** | Kvikun, transform | transition | @keyframe | 
-| 17 | --- | ---|  **Tímaverkefni 5** |  Hönnun vefs, undirbúningur | 
-| 18 | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval | Útlitshönnun |  
+| 17 | --- | **Tímaverkefni 5** |  Hönnun vefs, undirbúningur | Skipulag (site-map) |
+| 18 | Leiðakerfi (wireframe) | Letur- og litaval. Útlitshönnun | --- |  
 | 19 | Framleiðsla |Framleiðsla | Framleiðsla | Framleiðsla |
 | 20 | CSS þjöppun | Vefur á Github.io | _Námsmat_ | _Námsmat_ |
 
