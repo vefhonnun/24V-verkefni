@@ -32,8 +32,8 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 10 | --- | --- |  Vinnurammi - framework| Grid skipulag (RWD) |
-| 11 | CSS variables | **Tímaverkefni** | Töflur | Töflur RWD |
-| 12 | Form | Form validation | **Tímaverkefni** | Complex selectors 
+| 11 | CSS variables | **Tímaverkefni 1** | Töflur | Töflur RWD |
+| 12 | Form | Form validation | **Tímaverkefni 2** | Complex selectors 
 | 13 | _Páskafrí_ | --- | --- | --- |
 | 14 | --- | --- | Drop down menu | Pop up menu | 
 | 15 | **Tímaverkefni 3** | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon |  
