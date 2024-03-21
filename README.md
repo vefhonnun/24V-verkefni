@@ -36,9 +36,9 @@
 | 12 | Form | Form validation | **Tímaverkefni 2** | Complex selectors 
 | 13 | _Páskafrí_ | --- | --- | --- |
 | 14 | --- | --- | Drop down menu | Pop up menu | 
-| 15 | **Tímaverkefni 3** | SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon |  
-| 16 | **Tímaverkefni 4** | Kvikun, transform | transition | @keyframe | 
-| 17 | **Tímaverkefni 5** |  Hönnun vefs | Undirbúningur| --- |
+| 15 | Accordion menu | **Tímaverkefni 3** | SVG vigurteikningar | Tákn/logo búið til |  
+| 16 | Leturtákn - Icomoon | **Tímaverkefni 4** | Kvikun, transform | transition | 
+| 17 | @keyframe animation | **Tímaverkefni 5** |  Lokaverkefni Hönnun vefs | --- |
 | 18 | --- | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |    
 | 19 | Útlitshönnun | Framleiðsla | Framleiðsla | Framleiðsla |
 | 20 | CSS þjöppun | Vefur á Github.io | _Námsmat_ | _Námsmat_ |
